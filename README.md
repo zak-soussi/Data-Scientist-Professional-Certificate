@@ -5,7 +5,7 @@
 <h1>Data Scientist Professional Certificate</h1>
 
 <p>Welcome to my repository showcasing my journey to earning the Data Scientist Professional Certificate from DataCamp!<br> Here, you'll find the results of my DS101 and DS201 exams, along with the detailed notebook for the practical exam.</p>
-<img src="">
+<img src="https://github.com/zak-soussi/Data-Scientist-Professional-Certificate/blob/main/Professional%20Data%20Scientist%20Certification%20Soussi%20Zakaria.png">
 
 <h2>Exams Results</h2>
 
